@@ -11,3 +11,5 @@ index.js --> index.tsx
 o next vai reconhecer o typescript no projeto e então criará automaticamente os arquivos "tsconfig.json" e "next-env.d.ts" na raiz
 ```
 ### É isso!
+
+PS: o arquivo "next-env.d.ts" não precisa ser commitado, por isso ele é adicionado ao gitignore
